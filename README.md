@@ -87,6 +87,9 @@ This project and its source code are the exclusive property of the developer.
 No part of this project may be copied, used, modified, or distributed without explicit written permission from the developer.
 The project is currently under development and not yet licensed to any client. Unauthorized use is strictly prohibited.
 
+```bash
+
+
 🔗 Author
 Mohamed Abdelsalam
 Connect with me on LinkedIn!
