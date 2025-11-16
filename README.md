@@ -81,7 +81,11 @@ Advanced search and filters
 Multi-language support
 
 📄 License
-This project is open-source under the MIT License.
+All Rights Reserved © 2025 Mohamed Abdelsalam
+
+This project and its source code are the exclusive property of the developer.
+No part of this project may be copied, used, modified, or distributed without explicit written permission from the developer.
+The project is currently under development and not yet licensed to any client. Unauthorized use is strictly prohibited.
 
 🔗 Author
 Mohamed Abdelsalam
