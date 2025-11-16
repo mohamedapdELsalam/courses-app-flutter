@@ -15,7 +15,8 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    HomepageController controller = Get.put(HomepageController());
+    // HomepageController controller =
+    Get.put(HomepageController());
     return Scaffold(
       appBar: AppBar(
         actionsPadding: EdgeInsets.all(10),

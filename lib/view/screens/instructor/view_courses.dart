@@ -11,7 +11,8 @@ class ViewCourses extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    ViewCoursesController controller = Get.put(ViewCoursesController());
+    // ViewCoursesController controller =
+    Get.put(ViewCoursesController());
     return Scaffold(
       appBar: AppBar(title: Text("دوراتي")),
       body: Container(
